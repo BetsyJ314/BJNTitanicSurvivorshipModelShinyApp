@@ -3,6 +3,11 @@ ui.R and server.R files
 
 These 2 files pertain to the Coursera Data Products class and the Shiny Application assignment.  This is the code behind my Shiny Application for my Titanic survivorship model.
 
+Note accompanying files:   
+a) shiny app on shiny server: https://betsynash.shinyapps.io/bjntitanicsa2/   
+b) Rpresentation slides: http://rpubs.com/BetsyNash/378005
+
+
 Grading Criteria:
 
 •	Was there enough documentation on the shiny site for a user to get started using the application?  
